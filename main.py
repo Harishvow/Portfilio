@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as df
 
 st.set_page_config(layout="wide")
-st.title("My Portf0lio")
+st.title("My Portfolio")
 pg_bg_img = f"""
 <style>
 [data-testid="stApp"] {{
